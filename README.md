@@ -1,4 +1,3 @@
-<img width="391" height="391" alt="IMG_0606" src="https://github.com/user-attachments/assets/093942ee-b2b3-4c4f-94bd-851f7adf23a6" />
 ## Hi there 👋
 
 - 👋 Hi, I’m @TurmoilZoom.
