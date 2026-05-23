@@ -5,15 +5,4 @@
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TurmoilZoom&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurmoilZoom&layout=compact&langs_count=8&theme=transparent" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TurmoilZoom/TurmoilZoom/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TurmoilZoom/TurmoilZoom/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TurmoilZoom/TurmoilZoom/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width="128" height="128" alt="loading 937af439" src="https://github.com/user-attachments/assets/4be118ed-a74d-4f9d-9d84-5fd616cec911" />
